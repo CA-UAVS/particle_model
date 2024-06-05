@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/particle_model/static/css/main.073c9b0a.css",
-    "main.js": "/particle_model/static/js/main.edf64998.js",
-    "static/js/787.edd59a96.chunk.js": "/particle_model/static/js/787.edd59a96.chunk.js",
+    "main.css": "/particle_model/static/css/main.f855e6bc.css",
+    "main.js": "/particle_model/static/js/main.2cca83b5.js",
+    "static/js/453.92397e88.chunk.js": "/particle_model/static/js/453.92397e88.chunk.js",
     "static/media/logo.svg": "/particle_model/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/particle_model/index.html",
-    "main.073c9b0a.css.map": "/particle_model/static/css/main.073c9b0a.css.map",
-    "main.edf64998.js.map": "/particle_model/static/js/main.edf64998.js.map",
-    "787.edd59a96.chunk.js.map": "/particle_model/static/js/787.edd59a96.chunk.js.map"
+    "main.f855e6bc.css.map": "/particle_model/static/css/main.f855e6bc.css.map",
+    "main.2cca83b5.js.map": "/particle_model/static/js/main.2cca83b5.js.map",
+    "453.92397e88.chunk.js.map": "/particle_model/static/js/453.92397e88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.edf64998.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2cca83b5.js"
   ]
 }
